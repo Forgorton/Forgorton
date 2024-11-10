@@ -1,7 +1,6 @@
-- Hi, I’m @Forgorton
+- Hi, I’m @Forgor
 - Just sharing stuff I make
 - I do minecraft datapacks
-- Pronouns: He/Him
 
 <!---
 Forgorton/Forgorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
